@@ -7,17 +7,26 @@
 //
 
 #import "ViewController.h"
+#import "ScrambleGenerator.h"
 
 @interface ViewController ()
 
 @end
 
-@implementation ViewController
+@implementation ViewController {
+    ScrambleGenerator *scrambleSource;
+}
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    self.labelText.transform = CGAffineTransformMakeRotation((100 * M_PI) / 100);
+    self.labelText.textAlignment = NSTextAlignmentCenter;
+    
+    scrambleSource = [[ScrambleGenerator alloc] init];
+    
+    self.labelText.text = [scrambleSource getScramble];
 }
 
 - (void)didReceiveMemoryWarning

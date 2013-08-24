@@ -10,4 +10,8 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UILabel *labelText;
+
+- (IBAction)labelPressed:(UILabel *)sender;
+
 @end

@@ -18,6 +18,7 @@
 		6EEAAAAF17C84955004EE896 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EEAAAAE17C84955004EE896 /* Default-568h@2x.png */; };
 		6EEAAAB217C84955004EE896 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EEAAAB017C84955004EE896 /* MainStoryboard.storyboard */; };
 		6EEAAAB517C84955004EE896 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6EEAAAB417C84955004EE896 /* ViewController.m */; };
+		6EEAAABD17C84F9C004EE896 /* ScrambleGenerator.m in Sources */ = {isa = PBXBuildFile; fileRef = 6EEAAABC17C84F9C004EE896 /* ScrambleGenerator.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		6EEAAAB117C84955004EE896 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		6EEAAAB317C84955004EE896 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		6EEAAAB417C84955004EE896 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		6EEAAABB17C84F9C004EE896 /* ScrambleGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScrambleGenerator.h; sourceTree = "<group>"; };
+		6EEAAABC17C84F9C004EE896 /* ScrambleGenerator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScrambleGenerator.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +89,8 @@
 				6EEAAAA717C84955004EE896 /* AppDelegate.h */,
 				6EEAAAA817C84955004EE896 /* AppDelegate.m */,
 				6EEAAAB017C84955004EE896 /* MainStoryboard.storyboard */,
+				6EEAAABB17C84F9C004EE896 /* ScrambleGenerator.h */,
+				6EEAAABC17C84F9C004EE896 /* ScrambleGenerator.m */,
 				6EEAAAB317C84955004EE896 /* ViewController.h */,
 				6EEAAAB417C84955004EE896 /* ViewController.m */,
 				6EEAAA9F17C84955004EE896 /* Supporting Files */,
@@ -176,6 +181,7 @@
 				6EEAAAA517C84955004EE896 /* main.m in Sources */,
 				6EEAAAA917C84955004EE896 /* AppDelegate.m in Sources */,
 				6EEAAAB517C84955004EE896 /* ViewController.m in Sources */,
+				6EEAAABD17C84F9C004EE896 /* ScrambleGenerator.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
