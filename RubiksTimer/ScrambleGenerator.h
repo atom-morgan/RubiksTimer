@@ -10,6 +10,6 @@
 
 @interface ScrambleGenerator : NSObject
 
-- (NSArray *)getScramble;
+- (NSString *)getScramble;
 
 @end

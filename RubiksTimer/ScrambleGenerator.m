@@ -9,7 +9,6 @@
 #import "ScrambleGenerator.h"
 
 @implementation ScrambleGenerator {
-    NSString *scrambleText;
     NSArray *scramble;
 }
 
@@ -43,7 +42,7 @@
 
 - (NSString *)getScramble {
     NSArray *scrambleString;
-    //NSMutableArray *scrambleString;
+    NSString *scrambleText;
     for (int x=0; x<20; x++){
         [scrambleString[x] addObject: scramble[arc4random() % scramble.count]];
     }

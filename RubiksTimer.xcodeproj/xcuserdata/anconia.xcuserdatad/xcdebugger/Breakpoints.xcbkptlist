@@ -8,64 +8,12 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "RubiksTimer/ScrambleGenerator.m"
-         timestampString = "399075885.411822"
+         timestampString = "399090125.168646"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "38"
-         endingLineNumber = "38"
-         landmarkName = "-getScramble"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "No"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "RubiksTimer/ScrambleGenerator.m"
-         timestampString = "399075885.411822"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "33"
-         endingLineNumber = "33"
+         startingLineNumber = "37"
+         endingLineNumber = "37"
          landmarkName = "-init"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "No"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "RubiksTimer/ScrambleGenerator.m"
-         timestampString = "399011163.515538"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "41"
-         endingLineNumber = "41"
-         landmarkName = "-getScramble"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "No"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "RubiksTimer/ScrambleGenerator.m"
-         timestampString = "399011164.123542"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "42"
-         endingLineNumber = "42"
-         landmarkName = "-getScramble"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "No"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "RubiksTimer/ScrambleGenerator.m"
-         timestampString = "399045999.486509"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "40"
-         endingLineNumber = "40"
-         landmarkName = "-getScramble"
          landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
@@ -84,11 +32,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "RubiksTimer/ScrambleGenerator.m"
-         timestampString = "399075885.411822"
+         timestampString = "399090125.168646"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "36"
-         endingLineNumber = "36"
+         startingLineNumber = "41"
+         endingLineNumber = "41"
          landmarkName = "-init"
          landmarkType = "5">
       </FileBreakpoint>
@@ -96,13 +44,13 @@
          shouldBeEnabled = "No"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
-         filePath = "RubiksTimer/ScrambleGenerator.m"
-         timestampString = "399074174.211637"
+         filePath = "RubiksTimer/ViewController.m"
+         timestampString = "399099016.869152"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "43"
-         endingLineNumber = "43"
-         landmarkName = "-getScramble"
+         startingLineNumber = "28"
+         endingLineNumber = "28"
+         landmarkName = "-viewDidLoad"
          landmarkType = "5">
       </FileBreakpoint>
    </FileBreakpoints>
